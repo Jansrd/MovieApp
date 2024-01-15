@@ -22,12 +22,12 @@ This ReadMe file provides essential information to get started with the projects
   Follow these steps to set up and run MovieApp on your local machine:
 
     1. Clone the Repository:
-       git clone https://github.com/Jansrd/MovieApp.git 
+         git clone https://github.com/Jansrd/MovieApp.git 
     2. Navigate to the project directory:
-      cd MovieApp
+         cd MovieApp
     3. npm install
     4. API Key:
-       Obtain an API key from "api_key" in the `src/api.js`
+         Obtain an API key from "api_key" in the `src/api.js`
     5. npm start
     
 
