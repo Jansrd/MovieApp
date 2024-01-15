@@ -31,7 +31,7 @@ This ReadMe file provides essential information to get started with the projects
     5. npm start
     
 
-##Configuration
+## Configuration
 -  API key: Replace "api_key" in the `src/api.js` file with your MovieDB API key
   
 
