@@ -1,3 +1,5 @@
+# React Movie App
+
 Welcome to MovieApp, a React JS projects that allows users to explore and discover information about movies.
 This ReadMe file provides essential information to get started with the projects.
 
