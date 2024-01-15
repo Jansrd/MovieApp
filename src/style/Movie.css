@@ -1,0 +1,23 @@
+.movie__list {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.movie__list p {
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 50px;
+}
+
+.movie__list__content {
+    margin-top: 50px;
+    width: 70%;
+    gap: 20px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    margin-bottom: 50px;
+}
